@@ -1,0 +1,10 @@
+body{
+   height: 95vh;
+   width: 95;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   flex-direction: column;
+   color: darkblue;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+}
